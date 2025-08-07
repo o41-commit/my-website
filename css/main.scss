@@ -436,3 +436,10 @@ nav {
 .features-section {
   position: relative;
 }
+
+@media only screen and (max-width: 768px) {
+  .com {
+    padding: 30px;
+    margin-top: 12px;
+  }
+}
